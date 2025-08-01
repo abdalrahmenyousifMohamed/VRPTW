@@ -1,28 +1,3 @@
-# Directory structure (as Python comments)
-
-# vrptw-capacity-pickup-delivery/
-# ├── README.md
-# ├── requirements.txt
-# ├── .gitignore
-# ├── data/
-# │   ├── locations.json
-# │   ├── time_windows.json
-# │   ├── demands.json
-# │   └── pickup_delivery_pairs.json
-# ├── src/
-# │   ├── main.py
-# │   ├── data_loader.py
-# │   ├── distance_matrix.py
-# │   ├── model.py
-# │   ├── solver.py
-# │   └── visualizer.py
-# ├── results/
-# │   ├── routes_output.json
-# │   ├── solution_summary.txt
-# │   └── route_plot.png
-# └── notebooks/
-#     └── test_instance.ipynb
-
 # ======================
 # data/locations.json
 # ======================
