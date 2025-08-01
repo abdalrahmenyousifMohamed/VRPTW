@@ -11,7 +11,6 @@ vrptw-capacity-pickup-delivery/
 ├── data/                 # Input data in JSON
 ├── results/              # Output routes, plots, summary
 ├── src/                  # Python source code
-├── notebooks/            # Jupyter experiments
 ├── README.md
 ├── requirements.txt
 ```
